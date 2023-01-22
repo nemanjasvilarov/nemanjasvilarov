@@ -1,4 +1,4 @@
-<img src="./github.jpg" align="left"/>
+<img src="./github.jpg" align="center"/>
 
 ### Hello there, I'm Nemanja Svilarov :vulcan_salute:
 
