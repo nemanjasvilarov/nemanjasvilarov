@@ -1,3 +1,5 @@
+<img src="./github.jpg" align="left"/>
+
 ### Hello there, I'm Nemanja Svilarov :vulcan_salute:
 
 
