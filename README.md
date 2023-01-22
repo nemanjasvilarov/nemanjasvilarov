@@ -4,7 +4,7 @@
 
 I'm a Software Engineer that is passionate about Web Development. I'm always looking for new technologies to add to my stack. You can look through my repositories if you're interested to see what I have built.
 
-###Languages and Frameworks 
+##Languages and Frameworks 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="30px" style="padding-right:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" align="left" width="30px" style="padding-right:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="30px" style="padding-right:10px"/>
