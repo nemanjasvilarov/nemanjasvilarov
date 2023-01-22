@@ -21,7 +21,13 @@ I'm a Software Engineer that is passionate about Web Development. I'm always loo
 
 #
 
-###Status
+### Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemanjasvilarov&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemanjasvilarov&show_icons=true&theme=tokyonight)
+
+#
+
+<details>
+  <summar><h3></h3></summary>
+</details>
 
