@@ -27,7 +27,11 @@ I'm a Software Engineer that is passionate about Web Development. I'm always loo
 
 #
 
+###Projects
+
+#
+
 <details>
-  <summar><h3></h3></summary>
+  <summar><h3>My Coding Journey</h3></summary>
 </details>
 
