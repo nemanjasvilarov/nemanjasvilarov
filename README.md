@@ -1,4 +1,4 @@
-### Hello there, I'm Nemanja Svilarov :computer:
+### Hello there, I'm Nemanja Svilarov :vulcan_salute:
 
 
 **'Blacksmith Of Web Development'** :hammer_and_wrench:
