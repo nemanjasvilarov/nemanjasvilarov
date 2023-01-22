@@ -7,7 +7,7 @@ I'm a Software Engineer that is passionate about Web Development. I'm always loo
 
 #
 
-### Languages and Frameworks 
+### Languages and Tools 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="50px" style="padding-right:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" align="left" width="50px" style="padding-right:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="50px" style="padding-right:10px"/>
