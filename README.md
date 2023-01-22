@@ -18,7 +18,7 @@ I'm a Software Engineer that is passionate about Web Development. I'm always loo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" width="50px" style="padding-right:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="left" width="50px" style="padding-right:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" align="left" width="50px" style="padding-right:10px;margin-bottom:30px;"/>
-
+<br/><br/>
 
 #
 
