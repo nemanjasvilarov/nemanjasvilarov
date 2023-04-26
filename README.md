@@ -24,7 +24,7 @@ I'm a Software Engineer that is passionate about programming. I'm always looking
 
 ### Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemanjasvilarov&show_icons=true&theme=tokyonight)
+
 
 #
 
