@@ -3,7 +3,7 @@
 ### Hello there, I'm Nemanja Svilarov :vulcan_salute:
 
 
-I'm a Software Engineer that is passionate about programming. I'm always looking for new technologies to add to my stack. You can look through my repositories if you're interested to see what I have built.
+I'm a Software Engineer who is passionate about programming. I'm always looking for new technologies to add to my stack. You can look through my repositories if you're interested in seeing what I have built.
 
 #
 
